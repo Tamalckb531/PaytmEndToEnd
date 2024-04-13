@@ -1,4 +1,4 @@
-// File: /media/tamal/CodeDrive/WebProjects/PaytmEndToEnd/paytm-project/apps/user-app/app/layout.tsx
+// File: /media/tamal/CodeDrive/WebProjects/PaytmEndToEnd/paytm/apps/user-app/app/layout.tsx
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

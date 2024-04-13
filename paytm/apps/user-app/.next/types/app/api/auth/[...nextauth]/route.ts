@@ -1,4 +1,4 @@
-// File: /media/tamal/CodeDrive/WebProjects/PaytmEndToEnd/paytm-project/apps/user-app/app/api/auth/[...nextauth]/route.ts
+// File: /media/tamal/CodeDrive/WebProjects/PaytmEndToEnd/paytm/apps/user-app/app/api/auth/[...nextauth]/route.ts
 import * as entry from '../../../../../../app/api/auth/[...nextauth]/route.js'
 import type { NextRequest } from 'next/server.js'
 
